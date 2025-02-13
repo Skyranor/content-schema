@@ -1,0 +1,4 @@
+# yaml-language-server: $schema=../schemas/manifest.schema.json
+
+courses:
+  - "frontend-mentor/interactive-rating-component"

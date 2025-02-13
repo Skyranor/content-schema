@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../../schemas/course.schema.json
+id: "{cuid}"
+title: "Название курса"
+description: |
+  ## Описание курса в формате Markdown:
+  - Пункт 1
+  - Пункт 2
+  - Пункт 3
+  - Пункт [4](https://google.com)
+lessons:
+  - "lesson-1"
